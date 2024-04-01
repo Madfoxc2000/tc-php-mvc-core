@@ -1,0 +1,17 @@
+{
+    "name": "dell/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Madfoxc2000",
+            "email": "strahinja.a.98@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
